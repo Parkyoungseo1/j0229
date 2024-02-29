@@ -1,11 +1,15 @@
 package t4_exam;
 
 /*
-     *****
-      ****
-       ***
-        **
-         *
+            *
+           ***
+          ***** 
+         *******
+        *********
+         *******
+          *****
+           ***
+            *
 */
 public class Star8 {
 	public static void main(String[] args) {
